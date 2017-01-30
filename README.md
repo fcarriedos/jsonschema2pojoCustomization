@@ -23,3 +23,4 @@ Usage:
 Notes:
 
 1) Tested with version 0.4.30-SNAPSHOT of JSONSchema2POJO project.
+
